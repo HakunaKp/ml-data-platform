@@ -134,5 +134,3 @@ This repository provides:
 - System flow documentation
 - Infrastructure design rationale
 - Selected implementation excerpts
-
-Additional implementation details can be discussed during interview.
